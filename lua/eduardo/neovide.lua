@@ -1,4 +1,4 @@
-local default_font = "DankMono Nerd Font"
+local default_font = "JetBrainsMono Nerd Font"
 local default_size = 14
 
 if vim.g.neovide then
